@@ -1,0 +1,9 @@
+D:\ProjectGit\PracticaDNI\bin\Debug\PracticaDNI.exe.config
+D:\ProjectGit\PracticaDNI\bin\Debug\PracticaDNI.exe
+D:\ProjectGit\PracticaDNI\bin\Debug\PracticaDNI.pdb
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.csprojAssemblyReference.cache
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.Form1.resources
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.Properties.Resources.resources
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.csproj.GenerateResource.cache
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.exe
+D:\ProjectGit\PracticaDNI\obj\Debug\PracticaDNI.pdb
