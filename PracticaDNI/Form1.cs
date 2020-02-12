@@ -12,6 +12,7 @@ namespace PracticaDNI
 {
     public partial class Form1 : Form
     {
+        //RAÚL FUERTES BAYÓN
         public Form1()
         {
             InitializeComponent();
@@ -26,10 +27,11 @@ namespace PracticaDNI
 
         private char functionDNI(int dni)
         {
-            char letter = 'A';
+            //char letter = 'A';
+            //string letter = "TRWAGMYFPDXBNJZSQVHLCKE"[dni % 23];
 
 
-            return letter;
+            return "TRWAGMYFPDXBNJZSQVHLCKE"[dni % 23];
         }
     }
 }
